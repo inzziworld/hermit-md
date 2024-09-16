@@ -5,9 +5,26 @@ Hermit-md - Simple whatsapp Multi Device whatsapp bot.
 
 ### SETUP
 
-1. Scan the QR and copy it
-    <br>
-<a href='https://hermit-md.vercel.app/pair' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+1. Scan the QR or pair with code and copy it
+   Get [Pair with Code](https://hermit-md.vercel.app/pair) or Get [Scan with Qr](https://hermit-md.vercel.app/qr)
+
+© Inzziworld 
+
+ <br>
+<a href='https://hermit-md.vercel.app/pair' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a> 
+
+#### DEPLOY TO HUGGINGFACE
+
+1. If You don't have an account on huggingface. Create an account.
+  Go to [Huggingface](https://huggingface.co)
+
+2. Create a space 
+
+3. Add your files
+
+4. Now Deploy
+    
+© Inzziworld 
 
 #### DEPLOY TO KOYEB 
 
